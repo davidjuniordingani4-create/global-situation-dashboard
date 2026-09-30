@@ -1,0 +1,5 @@
+{"id":"earthquake-review","text":"Earthquake review | Analyse seismic activity | Review the dashboard earthquake count, magnitudes and locations; distinguish observed data from predictions."}
+{"id":"volcano-review","text":"Volcano review | Analyse volcanic activity | Review current volcanic event records and report missing measurements without inventing eruption forecasts."}
+{"id":"cyber-review","text":"Cyber review | Prioritise cybersecurity investigation | Inspect known exploited vulnerabilities, CVEs, ransomware and breach counts. Verify source coverage and prioritise exposed systems."}
+{"id":"network-review","text":"Network review | Review network disruptions | Inspect internet outage and BGP event records and identify information needing verification."}
+{"id":"global-summary","text":"Global summary | Summarise dashboard activity | Summarise risk, earthquakes, volcanoes, cyber incidents, aircraft and maritime counts; label simulated or incomplete sources."}
